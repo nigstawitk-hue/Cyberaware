@@ -1,5 +1,3 @@
-# Cyberaware
-
 # CyberAware
 ### Learn to Stay Safe in the Digital World
 
